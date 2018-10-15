@@ -1,0 +1,10 @@
+[alias]
+	ci = commit
+	co = checkout
+	st = status
+	br = branch
+[core]
+	excludesfile = /home/tony/.gitignore_global
+[user]
+	name = Tony Mikhailov
+	email = tony.mikhailov@gmail.com
